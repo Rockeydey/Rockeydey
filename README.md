@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rockeydey
-- 👀 I’m interested in Data Science Projects
+- 👀 I’m interested in ML & AI R&D.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me rockeydey@gmail.com
 
