@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rockeydey
 - 👀 I’m interested in ML & AI R&D.
-- 💞️ I’m looking to collaborate on Data Science projects.
+- 💞️ Reach out to me if anyone interested in collaboration on Data Science projects.
 - 📫 How to reach me rockeydey@gmail.com
 
 <!---
